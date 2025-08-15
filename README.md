@@ -23,7 +23,7 @@ Database: MySQL
 Security: Base64 Encoding
 
 📂 Project Structure
-<img width="782" height="388" alt="image" src="https://github.com/user-attachments/assets/12364c70-67a7-44bc-8c2e-77eb0664ff28" />
+<img width="682" height="357" alt="image" src="https://github.com/user-attachments/assets/715cd23f-16d4-4de8-be8a-98446d0ca8b1" />
 
 
 🚀 How to Run
