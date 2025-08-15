@@ -31,6 +31,7 @@ public class Addpassword {
         this.id = id;
     }
     public String getUsername() {
+<<<<<<< HEAD
         return AESUtil.decrypt(username);
     }
     public void setUsername(String username) {
@@ -58,3 +59,29 @@ public class Addpassword {
 
 //this.encryptedName = AESUtil.encrypt(name);
 //  return AESUtil.decrypt(encryptedName);
+=======
+        return username;
+    }
+    public void setUsername(String username) {
+        this.username = username;
+    }
+    public String getWebsite() {
+        return website;
+    }
+    public void setWebsite(String website) {
+        this.website = website;
+    }
+    public String getPassword() {
+        return password;
+    }
+    public void setPassword(String password) {
+        this.password = password;
+    }
+    public String getUrl() {
+        return url;
+    }
+    public void setUrl(String url) {
+        this.url = url;
+    }
+}
+>>>>>>> f854dabb803428c63c5a19879b78171918a47c5c
