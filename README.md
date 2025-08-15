@@ -23,17 +23,7 @@ Database: MySQL
 Security: Base64 Encoding
 
 📂 Project Structure
-password-manager/
-│
-├── backend/        # Spring Boot backend
-│   ├── src/main/java/...  # Controllers, Services, Repositories
-│   ├── src/main/resources/application.properties
-│
-├── frontend/       # React.js frontend
-│   ├── src/        # Components & Pages
-│   ├── package.json
-│
-└── README.md
+<img width="782" height="388" alt="image" src="https://github.com/user-attachments/assets/12364c70-67a7-44bc-8c2e-77eb0664ff28" />
 
 
 🚀 How to Run
